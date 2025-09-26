@@ -8,3 +8,4 @@ valence = { git = "https://github.com/valence-rs/valence" }
 bevy_ecs = "0.14.2"
 bevy_state = "0.14.2"
 bevy_time = "0.14.2"
+fastrand = "2.3.0"
