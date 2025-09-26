@@ -1,0 +1,10 @@
+[package]
+name = "project"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+valence = { git = "https://github.com/valence-rs/valence" }
+bevy_ecs = "0.14.2"
+bevy_state = "0.14.2"
+bevy_time = "0.14.2"
